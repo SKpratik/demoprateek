@@ -1,0 +1,15 @@
+New offer page functionality
+store:subcategory:
+1- Subcategory - include- Pass
+2- Subcategory - include + Exclude + Mandatory Item Value (together)-Pass
+3- Subcategory - include + Exclude + Mandatory Item Qty (together)-Pass
+4- Subcategory - include + Exclude + Mandatory Item/brand list Qty-Pass
+5- Subcategory - include + Exclude + Mandatory Item/brand list Value-Pass
+
+Brand:
+1- Brands - include-
+2- Brands - include + Exclude + Mandatory Item Value (together)-pass
+3- Brands - include + Exclude + Mandatory Item Qty (together)-pass
+4- Brands - include + Exclude + Mandatory Item list Qty-pass
+5- Brands - include + Exclude + Mandatory Item list Value-pass
+
